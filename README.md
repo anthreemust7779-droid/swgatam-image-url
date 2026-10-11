@@ -1,0 +1,1 @@
+# swgatam-image-url
